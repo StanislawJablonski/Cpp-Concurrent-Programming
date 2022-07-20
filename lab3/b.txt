@@ -1,0 +1,2 @@
+ba 
+\input{c.txt}

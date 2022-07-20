@@ -1,0 +1,2 @@
+Wagony do niej podoczepiali,
+\input{plikC.txt}

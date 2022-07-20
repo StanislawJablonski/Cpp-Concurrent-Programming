@@ -1,0 +1,9 @@
+ba ba
+aaaa
+safdgfhgfjh
+\input{b.txt}
+ba aaaaaaaaaa
+\input{c.txt}
+
+plik b tez ma odnosnik do c poprawny wynik dla wywolania programu dla tego pliku wynosi 5
+dla slowa zaczynajacego sie na 2 litere alfabetu a konczacego na 1

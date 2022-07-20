@@ -1,0 +1,4 @@
+Stoi na stacji lokomotywa,
+ciężka ogromna i pot z niej spływa.
+\input{plikB.txt}
+A tych wagonów jest ze czterdzieści. 
